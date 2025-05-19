@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>caixa eletrônico</title>
+    <link rel="stylesheet" href="style/style.css" />
+    <link rel="shortcut icon" href="img/favicon-16x16.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <section class="conteiner">
+      <div class="saldo">
+        <h1><i class="bi bi-bank"></i> Caixa Eletrônico</h1>
+        <h1><i class="bi bi-cash"></i> Saldo</h1>
+        <p id="saldo">R$ 0,00</p>
+      </div>
+
+      <div class="deposito" id="deposito">
+        <h1>Depósito</h1>
+        <input
+          type="number"
+          id="inputDeposito"
+          placeholder="Valor do depósito"
+        />
+        <button id="btnDepositar">Depositar</button>
+      </div>
+
+      <div class="sacar" id="sacar">
+        <h1>Saque</h1>
+        <input type="number" id="inputSaque" placeholder="Valor do saque" />
+        <button id="btnSacar">Sacar</button>
+      </div>
+
+      <div class="sair" id="sair">
+        <button id="sair">Sair</button>
+      </div>
+    </section>
+
+    <script src="script/script.js"></script>
+  </body>
+</html>

@@ -1,1 +1,2 @@
-# simuladorCaixaEletr-nico
+# SimuladorCaixaEletrônico
+

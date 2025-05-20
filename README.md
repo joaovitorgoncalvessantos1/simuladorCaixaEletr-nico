@@ -24,7 +24,8 @@ Este é um projeto simples de um **Caixa Eletrônico** feito com **HTML, CSS e J
 👨‍💻 Autor
 Nome: João Vitor Gonçalves Santos
 
-GitHub
+[Veja meu projeto GITHUB ](https://github.com/joaovitorgoncalvessantos1/simulador-caixa)
+
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-gon%C3%A7alves-4a47491a4/)
 # SimuladorCaixaEletrônico

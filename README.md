@@ -10,7 +10,6 @@ Este é um projeto simples de um **Caixa Eletrônico** feito com **HTML, CSS e J
 - 💰 Permite realizar depósitos
 - 💸 Permite fazer saques (com verificação de saldo)
 - 🔄 Botão para limpar o saldo
-- 🧑 Exibe o nome do usuário capturado via `prompt`
 
 ---
 
